@@ -1,0 +1,7 @@
+{
+  "n_individuals": "5000",
+  "dataset_name": "penbased",
+  "datasets_names": "penbased",
+  "datasets_path": "/home/henry/Projects/ednel/keel_datasets_10fcv",
+  "metadata_path": "./metadata"
+}

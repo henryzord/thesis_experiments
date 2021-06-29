@@ -1,0 +1,6 @@
+{
+  "numIterations": "-I 50",
+  "classifier": "-W weka.classifiers.trees.J48",
+  "dataset_name": "thyroid",
+  "dataset_experiment_path": "./J48/2021-06-09-02-41-59/thyroid"
+}

@@ -1,0 +1,7 @@
+{
+  "heuristic": "",
+  "minNumObj": "-M 2",
+  "dataset_name": "titanic",
+  "dataset_experiment_path": ".\\\\SimpleCart\\2021-05-11-15-06-10\\titanic",
+  "usePrune": "-U"
+}

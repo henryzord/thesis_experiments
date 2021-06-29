@@ -1,0 +1,8 @@
+{
+  "useIBk": "-I",
+  "search": "-S weka.attributeSelection.GreedyStepwise",
+  "evaluationMeasure": "-E auc",
+  "dataset_name": "ring",
+  "dataset_experiment_path": ".\\\\DecisionTable\\2021-05-11-15-47-33\\ring",
+  "crossVal": "-X 1"
+}

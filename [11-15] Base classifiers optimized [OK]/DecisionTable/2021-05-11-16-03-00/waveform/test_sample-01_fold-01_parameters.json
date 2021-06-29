@@ -1,0 +1,8 @@
+{
+  "useIBk": "-I",
+  "search": "-S weka.attributeSelection.BestFirst -D 1 -N 5",
+  "evaluationMeasure": "-E mae",
+  "dataset_name": "waveform",
+  "dataset_experiment_path": ".\\\\DecisionTable\\2021-05-11-16-03-00\\waveform",
+  "crossVal": "-X 1"
+}

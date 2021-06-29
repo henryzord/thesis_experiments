@@ -1,0 +1,14 @@
+{
+  "pruning": "-R",
+  "seed": "-Q 1",
+  "numFolds": "-N 3",
+  "useMDLcorrection": "",
+  "subtreeRaising": "",
+  "binarySplits": "",
+  "minNumObj": "-M 2",
+  "useLaplace": "",
+  "dataset_name": "steelfaults",
+  "collapseTree": "",
+  "doNotMakeSplitPointActualValue": "",
+  "dataset_experiment_path": "C:\\\\Users\\\\henry\\\\Desktop\\\\experiments_j48\\\\metadata\\2021-05-11-12-47-26\\steelfaults"
+}

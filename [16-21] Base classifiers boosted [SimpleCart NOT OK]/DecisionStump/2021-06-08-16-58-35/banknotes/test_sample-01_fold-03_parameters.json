@@ -1,0 +1,6 @@
+{
+  "numIterations": "-I 132",
+  "classifier": "-W weka.classifiers.trees.DecisionStump",
+  "dataset_name": "banknotes",
+  "dataset_experiment_path": "./DecisionStump/2021-06-08-16-58-35/banknotes"
+}

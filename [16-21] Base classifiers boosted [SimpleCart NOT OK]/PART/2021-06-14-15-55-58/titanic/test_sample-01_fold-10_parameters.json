@@ -1,0 +1,6 @@
+{
+  "numIterations": "-I 50",
+  "classifier": "-W weka.classifiers.rules.PART",
+  "dataset_name": "titanic",
+  "dataset_experiment_path": "./PART/2021-06-14-15-55-58/titanic"
+}

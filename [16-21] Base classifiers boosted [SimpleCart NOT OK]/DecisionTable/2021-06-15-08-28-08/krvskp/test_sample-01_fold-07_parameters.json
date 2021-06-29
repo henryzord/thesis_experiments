@@ -1,0 +1,6 @@
+{
+  "numIterations": "-I 214",
+  "classifier": "-W weka.classifiers.rules.DecisionTable",
+  "dataset_name": "krvskp",
+  "dataset_experiment_path": "./DecisionTable/2021-06-15-08-28-08/krvskp"
+}

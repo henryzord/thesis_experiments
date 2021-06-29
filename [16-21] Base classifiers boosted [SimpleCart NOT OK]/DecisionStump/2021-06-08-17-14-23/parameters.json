@@ -1,0 +1,8 @@
+{
+  "n_internal_folds": "5",
+  "classifier": "DecisionStump",
+  "dataset_name": "splice",
+  "datasets_names": "splice",
+  "datasets_path": "/home/henry/Projects/ednel/keel_datasets_10fcv",
+  "metadata_path": "./DecisionStump"
+}

@@ -1,0 +1,11 @@
+{
+  "pruning": "-U",
+  "useMDLcorrection": "",
+  "binarySplits": "",
+  "minNumObj": "-M 4",
+  "useLaplace": "",
+  "dataset_name": "thyroid",
+  "collapseTree": "",
+  "doNotMakeSplitPointActualValue": "",
+  "dataset_experiment_path": "C:\\\\Users\\\\henry\\\\Desktop\\\\experiments_j48\\\\metadata\\2021-05-11-12-47-51\\thyroid"
+}

@@ -1,0 +1,21 @@
+,minNumObj_-M 6,minNumObj_-M 8,pruning_-C 0.25,pruning_-R,pruning_-U,minNumObj_-M 2,minNumObj_-M 4
+banknotes,5.0,0.0,5.0,2.0,3.0,1.0,4.0
+contraceptive,5.0,4.0,5.0,4.0,1.0,,1.0
+diabetic,4.0,2.0,6.0,3.0,1.0,1.0,3.0
+flare,4.0,5.0,4.0,6.0,,,1.0
+page-blocks,4.0,4.0,6.0,3.0,1.0,1.0,1.0
+seismicbumps,3.0,5.0,8.0,2.0,,,2.0
+splice,6.0,3.0,8.0,1.0,1.0,,1.0
+texture,5.0,5.0,9.0,1.0,,,
+thyroid,4.0,4.0,5.0,4.0,1.0,1.0,1.0
+turkiye,0.0,10.0,4.0,6.0,,,
+waveform,1.0,9.0,7.0,3.0,,,
+banana,3.0,2.0,,,10.0,4.0,1.0
+car,1.0,,10.0,,,,9.0
+krvskp,2.0,,10.0,,,5.0,3.0
+penbased,5.0,5.0,10.0,,,,
+phoneme,2.0,2.0,4.0,,6.0,5.0,1.0
+ring,2.0,8.0,10.0,,,,
+steelfaults,,,,,10.0,10.0,
+titanic,,,,,10.0,10.0,
+twonorm,6.0,3.0,10.0,,,,1.0

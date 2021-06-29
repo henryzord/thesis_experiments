@@ -1,0 +1,6 @@
+{
+  "numIterations": "-I 50",
+  "classifier": "-W weka.classifiers.rules.DecisionTable",
+  "dataset_name": "diabetic",
+  "dataset_experiment_path": "./DecisionTable/2021-06-15-08-21-16/diabetic"
+}

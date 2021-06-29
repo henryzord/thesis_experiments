@@ -1,0 +1,6 @@
+{
+  "numIterations": "-I 91",
+  "classifier": "-W weka.classifiers.rules.JRip",
+  "dataset_name": "waveform",
+  "dataset_experiment_path": "./JRip/2021-06-13-09-50-43/waveform"
+}

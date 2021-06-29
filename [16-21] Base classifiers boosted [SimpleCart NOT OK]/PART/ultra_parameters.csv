@@ -1,0 +1,21 @@
+,numIterations_-I 50,numIterations_-I 91,numIterations_-I 214,numIterations_-I 418,numIterations_-I 459,numIterations_-I 132,numIterations_-I 500,numIterations_-I 377,numIterations_-I 173
+banana,9,1.0,,,,,,,
+banknotes,2,1.0,1.0,2.0,1.0,1.0,1.0,1.0,
+car,7,3.0,,,,,,,
+contraceptive,10,,,,,,,,
+diabetic,9,1.0,,,,,,,
+flare,10,,,,,,,,
+krvskp,6,2.0,,,,2.0,,,
+page-blocks,3,5.0,,,,2.0,,,
+penbased,9,,,,,1.0,,,
+phoneme,9,1.0,,,,,,,
+ring,10,,,,,,,,
+seismicbumps,8,1.0,,,,1.0,,,
+splice,10,,,,,,,,
+steelfaults,10,,,,,,,,
+texture,8,1.0,,,,,,,1.0
+thyroid,5,3.0,,,,,,,2.0
+titanic,3,4.0,,,,3.0,,,
+turkiye,10,,,,,,,,
+twonorm,10,,,,,,,,
+waveform,10,,,,,,,,

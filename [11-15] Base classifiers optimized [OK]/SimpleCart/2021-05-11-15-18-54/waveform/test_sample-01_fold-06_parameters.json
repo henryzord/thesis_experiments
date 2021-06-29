@@ -1,0 +1,11 @@
+{
+  "sizePer": "-C 1.0",
+  "numFoldsPruning": "-N 5",
+  "seed": "-S 1",
+  "heuristic": "",
+  "minNumObj": "-M 8",
+  "dataset_name": "waveform",
+  "useOneSE": "",
+  "dataset_experiment_path": ".\\\\SimpleCart\\2021-05-11-15-18-54\\waveform",
+  "usePrune": ""
+}

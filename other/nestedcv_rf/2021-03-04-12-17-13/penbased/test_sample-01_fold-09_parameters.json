@@ -1,0 +1,9 @@
+{
+  "maxDepth": "0",
+  "breakTiesRandomly": "false",
+  "numFeatures": "{Math.sqrt(p)}",
+  "numIterations": "1000",
+  "dataset_name": "penbased",
+  "bagSizePercent": "90",
+  "dataset_experiment_path": "/A/henry/ednel/metadata/nestedcv_rf/2021-03-04-12-17-13/penbased"
+}

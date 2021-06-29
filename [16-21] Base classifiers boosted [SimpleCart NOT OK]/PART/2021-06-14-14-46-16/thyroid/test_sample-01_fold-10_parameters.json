@@ -1,0 +1,6 @@
+{
+  "numIterations": "-I 173",
+  "classifier": "-W weka.classifiers.rules.PART",
+  "dataset_name": "thyroid",
+  "dataset_experiment_path": "./PART/2021-06-14-14-46-16/thyroid"
+}

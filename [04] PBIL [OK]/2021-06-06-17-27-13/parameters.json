@@ -1,0 +1,8 @@
+{
+  "heap_size": "4g",
+  "metadata_path": "/A/henry/pbil/metadata/pbil_nestedcv",
+  "datasets_path": "/home/henry/Projects/ednel/keel_datasets_10fcv",
+  "dataset_name": "steelfaults",
+  "n_internal_folds": 5,
+  "n_jobs": 10
+}

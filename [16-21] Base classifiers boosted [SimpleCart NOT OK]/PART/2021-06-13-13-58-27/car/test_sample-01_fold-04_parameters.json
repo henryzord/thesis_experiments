@@ -1,0 +1,6 @@
+{
+  "numIterations": "-I 91",
+  "classifier": "-W weka.classifiers.rules.PART",
+  "dataset_name": "car",
+  "dataset_experiment_path": "./PART/2021-06-13-13-58-27/car"
+}

@@ -1,0 +1,9 @@
+{
+  "learning_rate": "0.52",
+  "selection_share": "0.5",
+  "n_individuals": "50",
+  "n_generations": "100",
+  "timeout": "3600",
+  "timeout_individual": "60",
+  "individual": "last"
+}

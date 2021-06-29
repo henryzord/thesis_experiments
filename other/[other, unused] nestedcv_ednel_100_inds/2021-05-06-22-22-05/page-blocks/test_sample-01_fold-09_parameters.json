@@ -1,0 +1,17 @@
+{
+  "thinning_factor": "0",
+  "max_parents": "0",
+  "delay_structure_learning": "0",
+  "individual": "overall",
+  "selection_share": "0.5",
+  "n_individuals": "100",
+  "no_cycles": "false",
+  "dataset_name": "page-blocks",
+  "timeout_individual": "60",
+  "timeout": "3600",
+  "dataset_experiment_path": "/A/henry/ednel/metadata/nestedcv_ednel/2021-05-06-22-22-05/page-blocks",
+  "burn_in": "100",
+  "early_stop_generations": "10",
+  "learning_rate": "0.26",
+  "n_generations": "100"
+}

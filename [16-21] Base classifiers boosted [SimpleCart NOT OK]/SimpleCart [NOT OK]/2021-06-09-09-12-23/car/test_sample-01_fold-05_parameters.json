@@ -1,0 +1,6 @@
+{
+  "numIterations": "-I 91",
+  "classifier": "-W ednel.classifiers.trees.SimpleCart",
+  "dataset_name": "car",
+  "dataset_experiment_path": "./SimpleCart/2021-06-09-09-12-23/car"
+}

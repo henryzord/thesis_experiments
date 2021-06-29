@@ -1,0 +1,9 @@
+{
+  "n_external_folds": "10",
+  "n_internal_folds": "5",
+  "classifier": "RandomForest",
+  "dataset_name": "diabetic",
+  "datasets_names": "diabetic",
+  "datasets_path": "keel_datasets_10fcv",
+  "metadata_path": "/A/henry/ednel/metadata/nestedcv_rf"
+}

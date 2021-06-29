@@ -1,0 +1,10 @@
+{
+  "minNo": "-N 2",
+  "folds": "-F 3",
+  "usePruning": "",
+  "seed": "-S 1",
+  "dataset_name": "car",
+  "checkErrorRate": "",
+  "dataset_experiment_path": ".\\\\JRip\\2021-05-11-15-20-10\\car",
+  "optimizations": "-O 2"
+}

@@ -1,0 +1,7 @@
+{
+  "n_individuals": "5000",
+  "dataset_name": "phoneme",
+  "datasets_names": "phoneme",
+  "datasets_path": "/home/henry/Projects/ednel/keel_datasets_10fcv",
+  "metadata_path": "./metadata"
+}

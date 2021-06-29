@@ -1,0 +1,15 @@
+,individual_last,learning_rate_0.13,selection_share_0.3,learning_rate_0.52,learning_rate_0.26,selection_share_0.5,individual_overall
+banana,5,3,7,2.0,5.0,3.0,5.0
+banknotes,6,6,3,2.0,2.0,7.0,4.0
+car,4,2,2,6.0,2.0,8.0,6.0
+contraceptive,5,5,5,1.0,4.0,5.0,5.0
+diabetic,6,3,5,3.0,4.0,5.0,4.0
+flare,3,2,6,3.0,5.0,4.0,7.0
+krvskp,4,6,5,2.0,2.0,5.0,6.0
+page-blocks,7,2,8,4.0,4.0,2.0,3.0
+penbased,5,5,6,2.0,3.0,4.0,5.0
+phoneme,3,1,6,2.0,7.0,4.0,7.0
+ring,3,2,5,6.0,2.0,5.0,7.0
+seismicbumps,8,6,4,1.0,3.0,6.0,2.0
+splice,6,3,5,3.0,4.0,5.0,4.0
+steelfaults,10,10,10,,,,

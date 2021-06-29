@@ -1,0 +1,6 @@
+{
+  "numIterations": "-I 91",
+  "classifier": "-W weka.classifiers.rules.DecisionTable",
+  "dataset_name": "banknotes",
+  "dataset_experiment_path": "./DecisionTable/2021-06-15-08-15-55/banknotes"
+}

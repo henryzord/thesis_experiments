@@ -1,0 +1,6 @@
+{
+  "numIterations": "-I 50",
+  "classifier": "-W weka.classifiers.rules.JRip",
+  "dataset_name": "banana",
+  "dataset_experiment_path": "./JRip/2021-06-12-06-54-38/banana"
+}

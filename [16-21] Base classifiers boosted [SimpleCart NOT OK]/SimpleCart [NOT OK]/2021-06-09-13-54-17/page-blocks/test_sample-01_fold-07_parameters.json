@@ -1,0 +1,6 @@
+{
+  "numIterations": "-I 91",
+  "classifier": "-W ednel.classifiers.trees.SimpleCart",
+  "dataset_name": "page-blocks",
+  "dataset_experiment_path": "./SimpleCart/2021-06-09-13-54-17/page-blocks"
+}

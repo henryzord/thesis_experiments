@@ -1,0 +1,17 @@
+{
+  "thinning_factor": "0",
+  "max_parents": "1",
+  "delay_structure_learning": "5",
+  "individual": "overall",
+  "selection_share": "0.5",
+  "n_individuals": "50",
+  "no_cycles": "false",
+  "dataset_name": "thyroid",
+  "timeout_individual": "60",
+  "timeout": "3600",
+  "dataset_experiment_path": "/A/henry/ednel/metadata/nestedcv_ednel/2021-06-19-13-02-37/thyroid",
+  "burn_in": "100",
+  "early_stop_generations": "20",
+  "learning_rate": "0.52",
+  "n_generations": "100"
+}

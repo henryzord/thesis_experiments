@@ -1,0 +1,21 @@
+,minNo_-N 2,minNo_-N 4,minNo_-N 6,minNo_-N 8,usePruning_,usePruning_-P
+banana,3,2,2,3,10,
+banknotes,7,2,0,1,6,4.0
+car,9,1,0,0,10,
+contraceptive,4,0,2,4,10,
+diabetic,7,2,1,0,10,
+flare,5,2,2,1,10,
+krvskp,10,0,0,0,10,
+page-blocks,0,5,3,2,10,
+penbased,0,1,3,6,10,
+phoneme,3,0,1,6,10,
+ring,3,2,2,3,10,
+seismicbumps,3,1,5,1,2,8.0
+splice,0,2,4,4,10,
+steelfaults,8,1,1,0,10,
+texture,3,3,1,3,10,
+thyroid,1,3,2,4,10,
+titanic,4,0,2,4,10,
+turkiye,4,4,2,0,10,
+twonorm,2,0,2,6,10,
+waveform,3,1,5,1,10,

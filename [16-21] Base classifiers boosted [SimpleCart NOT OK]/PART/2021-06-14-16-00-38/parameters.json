@@ -1,0 +1,8 @@
+{
+  "n_internal_folds": "5",
+  "classifier": "PART",
+  "dataset_name": "twonorm",
+  "datasets_names": "twonorm",
+  "datasets_path": "/home/henry/Projects/ednel/keel_datasets_10fcv",
+  "metadata_path": "./PART"
+}

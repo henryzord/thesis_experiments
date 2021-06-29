@@ -1,0 +1,8 @@
+{
+  "useIBk": "-I",
+  "search": "-S weka.attributeSelection.BestFirst -D 1 -N 5",
+  "evaluationMeasure": "-E rmse",
+  "dataset_name": "thyroid",
+  "dataset_experiment_path": ".\\\\DecisionTable\\2021-05-11-15-56-57\\thyroid",
+  "crossVal": "-X 1"
+}

@@ -1,0 +1,12 @@
+{
+  "pruning": "-C 0.25",
+  "useMDLcorrection": "",
+  "subtreeRaising": "",
+  "binarySplits": "",
+  "minNumObj": "-M 8",
+  "useLaplace": "",
+  "dataset_name": "flare",
+  "collapseTree": "",
+  "doNotMakeSplitPointActualValue": "",
+  "dataset_experiment_path": "C:\\\\Users\\\\henry\\\\Desktop\\\\experiments_j48\\\\metadata\\2021-05-11-12-45-57\\flare"
+}

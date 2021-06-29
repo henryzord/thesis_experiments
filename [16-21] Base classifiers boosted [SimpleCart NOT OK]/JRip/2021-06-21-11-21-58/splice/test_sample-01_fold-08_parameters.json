@@ -1,0 +1,6 @@
+{
+  "numIterations": "-I 50",
+  "classifier": "-W weka.classifiers.rules.JRip",
+  "dataset_name": "splice",
+  "dataset_experiment_path": "./JRip/2021-06-21-11-21-58/splice"
+}

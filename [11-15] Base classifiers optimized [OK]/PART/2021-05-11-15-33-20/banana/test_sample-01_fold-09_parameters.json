@@ -1,0 +1,9 @@
+{
+  "pruning": "-U",
+  "useMDLcorrection": "",
+  "binarySplits": "",
+  "minNumObj": "-M 6",
+  "dataset_name": "banana",
+  "doNotMakeSplitPointActualValue": "",
+  "dataset_experiment_path": ".\\\\PART\\2021-05-11-15-33-20\\banana"
+}

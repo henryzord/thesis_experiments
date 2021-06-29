@@ -1,0 +1,8 @@
+{
+  "n_internal_folds": "5",
+  "classifier": "PART",
+  "dataset_name": "banana",
+  "datasets_names": "banana",
+  "datasets_path": "C:\\\\Users\\\\henry\\\\Projects\\\\ednel\\\\keel_datasets_10fcv",
+  "metadata_path": ".\\\\PART"
+}

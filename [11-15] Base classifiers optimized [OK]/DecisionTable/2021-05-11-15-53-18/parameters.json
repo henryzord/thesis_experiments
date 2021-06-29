@@ -1,0 +1,8 @@
+{
+  "n_internal_folds": "5",
+  "classifier": "DecisionTable",
+  "dataset_name": "texture",
+  "datasets_names": "texture",
+  "datasets_path": "C:\\\\Users\\\\henry\\\\Projects\\\\ednel\\\\keel_datasets_10fcv",
+  "metadata_path": ".\\\\DecisionTable"
+}

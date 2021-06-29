@@ -1,0 +1,21 @@
+{
+  "thinning_factor": "0",
+  "max_parents": "1",
+  "delay_structure_learning": "3",
+  "log": "true",
+  "selection_share": "0.1",
+  "n_samples": "1",
+  "n_jobs": "15",
+  "n_individuals": "100",
+  "no_cycles": "false",
+  "log_test": "true",
+  "timeout_individual": "60",
+  "timeout": "3600",
+  "datasets_path": "/home/henry/Projects/ednel/keel_datasets_10fcv",
+  "burn_in": "34",
+  "early_stop_generations": "10",
+  "learning_rate": "0.1",
+  "datasets_names": "balancescale,banknotes,bupa,car,cleveland,crx,dermatology,flare,heart,krvskp,newthyroid,phoneme,pima,saheart,seismicbumps,tae,texture,thyroid,tictactoe,titanic,twonorm,vowel,waveform,wdbc,wine,wisconsin,australian,banana,bloodtransfusion,breast,chess,contraceptive,creditapproval,diabetic,german,haberman,hayes-roth,ionosphere,led7digit,mammographic,monk-2,page-blocks,penbased,ring,segment,sonar,spectfheart,splice,steelfaults,syntheticcontrol,turkiye,vehicle",
+  "metadata_path": "/A/henry/ednel/metadata/overfitting",
+  "n_generations": "100"
+}

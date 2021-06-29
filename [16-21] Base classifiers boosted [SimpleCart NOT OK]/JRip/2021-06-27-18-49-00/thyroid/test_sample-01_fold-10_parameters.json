@@ -1,0 +1,6 @@
+{
+  "numIterations": "-I 50",
+  "classifier": "-W weka.classifiers.rules.JRip",
+  "dataset_name": "thyroid",
+  "dataset_experiment_path": "./JRip/2021-06-21-13-12-59/thyroid"
+}

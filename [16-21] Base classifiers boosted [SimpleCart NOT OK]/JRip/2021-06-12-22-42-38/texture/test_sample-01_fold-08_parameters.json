@@ -1,0 +1,6 @@
+{
+  "numIterations": "-I 91",
+  "classifier": "-W weka.classifiers.rules.JRip",
+  "dataset_name": "texture",
+  "dataset_experiment_path": "./JRip/2021-06-12-22-42-38/texture"
+}

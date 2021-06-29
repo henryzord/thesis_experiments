@@ -1,0 +1,8 @@
+{
+  "useIBk": "-I",
+  "search": "-S weka.attributeSelection.GreedyStepwise",
+  "evaluationMeasure": "-E mae",
+  "dataset_name": "thyroid",
+  "dataset_experiment_path": ".\\\\DecisionTable\\2021-05-11-15-56-57\\thyroid",
+  "crossVal": "-X 1"
+}

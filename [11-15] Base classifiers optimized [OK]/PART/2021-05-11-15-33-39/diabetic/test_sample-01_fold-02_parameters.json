@@ -1,0 +1,9 @@
+{
+  "pruning": "-C 0.25",
+  "useMDLcorrection": "",
+  "binarySplits": "",
+  "minNumObj": "-M 2",
+  "dataset_name": "diabetic",
+  "doNotMakeSplitPointActualValue": "",
+  "dataset_experiment_path": ".\\\\PART\\2021-05-11-15-33-39\\diabetic"
+}

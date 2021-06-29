@@ -1,0 +1,7 @@
+{
+  "heuristic": "",
+  "minNumObj": "-M 8",
+  "dataset_name": "penbased",
+  "dataset_experiment_path": ".\\\\SimpleCart\\2021-05-11-14-55-51\\penbased",
+  "usePrune": "-U"
+}

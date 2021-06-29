@@ -1,0 +1,8 @@
+{
+  "minNo": "-N 2",
+  "usePruning": "-P",
+  "seed": "-S 1",
+  "dataset_name": "banknotes",
+  "checkErrorRate": "",
+  "dataset_experiment_path": ".\\\\JRip\\2021-05-11-15-20-08\\banknotes"
+}

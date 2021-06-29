@@ -1,0 +1,8 @@
+{
+  "minNo": "-N 6",
+  "usePruning": "-P",
+  "seed": "-S 1",
+  "dataset_name": "seismicbumps",
+  "checkErrorRate": "",
+  "dataset_experiment_path": ".\\\\JRip\\2021-05-11-15-25-28\\seismicbumps"
+}

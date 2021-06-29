@@ -1,0 +1,11 @@
+{
+  "sizePer": "-C 1.0",
+  "numFoldsPruning": "-N 5",
+  "seed": "-S 1",
+  "heuristic": "",
+  "minNumObj": "-M 2",
+  "dataset_name": "banknotes",
+  "useOneSE": "",
+  "dataset_experiment_path": ".\\\\SimpleCart\\2021-05-11-14-54-18\\banknotes",
+  "usePrune": ""
+}

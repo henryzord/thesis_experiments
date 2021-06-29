@@ -1,0 +1,8 @@
+{
+  "n_internal_folds": "5",
+  "classifier": "JRip",
+  "dataset_name": "flare",
+  "datasets_names": "flare",
+  "datasets_path": "C:\\\\Users\\\\henry\\\\Projects\\\\ednel\\\\keel_datasets_10fcv",
+  "metadata_path": ".\\\\JRip"
+}

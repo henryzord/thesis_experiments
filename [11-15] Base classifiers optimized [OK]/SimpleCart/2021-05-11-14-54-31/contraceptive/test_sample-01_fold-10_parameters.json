@@ -1,0 +1,7 @@
+{
+  "heuristic": "",
+  "minNumObj": "-M 8",
+  "dataset_name": "contraceptive",
+  "dataset_experiment_path": ".\\\\SimpleCart\\2021-05-11-14-54-31\\contraceptive",
+  "usePrune": "-U"
+}

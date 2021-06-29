@@ -1,0 +1,9 @@
+{
+  "maxDepth": "0",
+  "breakTiesRandomly": "false",
+  "numFeatures": "{(Math.log(p)/Math.log(2))*2}",
+  "numIterations": "1000",
+  "dataset_name": "krvskp",
+  "bagSizePercent": "100",
+  "dataset_experiment_path": "/A/henry/ednel/metadata/nestedcv_rf/2021-03-04-12-06-09/krvskp"
+}

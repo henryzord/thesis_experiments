@@ -1,0 +1,6 @@
+{
+  "numIterations": "-I 377",
+  "classifier": "-W weka.classifiers.trees.J48",
+  "dataset_name": "banknotes",
+  "dataset_experiment_path": "./J48/2021-06-08-17-33-34/banknotes"
+}

@@ -1,0 +1,9 @@
+{
+  "pruning": "-C 0.25",
+  "useMDLcorrection": "",
+  "binarySplits": "",
+  "minNumObj": "-M 8",
+  "dataset_name": "turkiye",
+  "doNotMakeSplitPointActualValue": "",
+  "dataset_experiment_path": ".\\\\PART\\2021-05-11-15-37-52\\turkiye"
+}

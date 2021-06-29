@@ -1,0 +1,8 @@
+{
+  "n_internal_folds": "5",
+  "classifier": "DecisionStump",
+  "dataset_name": "titanic",
+  "datasets_names": "titanic",
+  "datasets_path": "/home/henry/Projects/ednel/keel_datasets_10fcv",
+  "metadata_path": "./DecisionStump"
+}

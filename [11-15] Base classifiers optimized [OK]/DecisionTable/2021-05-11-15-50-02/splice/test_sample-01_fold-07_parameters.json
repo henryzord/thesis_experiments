@@ -1,0 +1,8 @@
+{
+  "useIBk": "-I",
+  "search": "-S weka.attributeSelection.BestFirst -D 1 -N 5",
+  "evaluationMeasure": "-E auc",
+  "dataset_name": "splice",
+  "dataset_experiment_path": ".\\\\DecisionTable\\2021-05-11-15-50-02\\splice",
+  "crossVal": "-X 1"
+}

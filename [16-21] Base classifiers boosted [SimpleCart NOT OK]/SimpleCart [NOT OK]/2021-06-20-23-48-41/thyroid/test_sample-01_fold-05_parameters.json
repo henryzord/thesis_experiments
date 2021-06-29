@@ -1,0 +1,6 @@
+{
+  "numIterations": "-I 173",
+  "classifier": "-W ednel.classifiers.trees.SimpleCart",
+  "dataset_name": "thyroid",
+  "dataset_experiment_path": "./SimpleCart/2021-06-20-23-48-41/thyroid"
+}

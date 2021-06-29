@@ -1,0 +1,7 @@
+{
+  "n_individuals": "5000",
+  "dataset_name": "ring",
+  "datasets_names": "ring",
+  "datasets_path": "/home/henry/Projects/ednel/keel_datasets_10fcv",
+  "metadata_path": "./metadata"
+}

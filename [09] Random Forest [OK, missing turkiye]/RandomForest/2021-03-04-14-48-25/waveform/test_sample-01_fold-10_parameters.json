@@ -1,0 +1,9 @@
+{
+  "maxDepth": "0",
+  "breakTiesRandomly": "false",
+  "numFeatures": "{Math.sqrt(p)/2}",
+  "numIterations": "1000",
+  "dataset_name": "waveform",
+  "bagSizePercent": "90",
+  "dataset_experiment_path": "/A/henry/ednel/metadata/nestedcv_rf/2021-03-04-14-48-25/waveform"
+}

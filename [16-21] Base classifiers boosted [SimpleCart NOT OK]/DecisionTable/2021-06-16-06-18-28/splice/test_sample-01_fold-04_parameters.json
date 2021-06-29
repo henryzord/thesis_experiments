@@ -1,0 +1,6 @@
+{
+  "numIterations": "-I 50",
+  "classifier": "-W weka.classifiers.rules.DecisionTable",
+  "dataset_name": "splice",
+  "dataset_experiment_path": "./DecisionTable/2021-06-16-06-18-28/splice"
+}

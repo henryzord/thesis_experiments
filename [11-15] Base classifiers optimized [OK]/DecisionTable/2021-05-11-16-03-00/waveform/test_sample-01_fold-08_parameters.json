@@ -1,0 +1,8 @@
+{
+  "useIBk": "",
+  "search": "-S weka.attributeSelection.GreedyStepwise",
+  "evaluationMeasure": "-E rmse",
+  "dataset_name": "waveform",
+  "dataset_experiment_path": ".\\\\DecisionTable\\2021-05-11-16-03-00\\waveform",
+  "crossVal": "-X 1"
+}

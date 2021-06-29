@@ -1,0 +1,6 @@
+{
+  "numIterations": "-I 459",
+  "classifier": "-W weka.classifiers.trees.DecisionStump",
+  "dataset_name": "diabetic",
+  "dataset_experiment_path": "./DecisionStump/2021-06-08-16-59-13/diabetic"
+}

@@ -1,0 +1,6 @@
+{
+  "numIterations": "-I 132",
+  "classifier": "-W weka.classifiers.rules.PART",
+  "dataset_name": "krvskp",
+  "dataset_experiment_path": "./PART/2021-06-13-14-04-52/krvskp"
+}

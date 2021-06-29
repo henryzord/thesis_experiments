@@ -1,0 +1,8 @@
+{
+  "useIBk": "",
+  "search": "-S weka.attributeSelection.BestFirst -D 1 -N 5",
+  "evaluationMeasure": "-E mae",
+  "dataset_name": "contraceptive",
+  "dataset_experiment_path": ".\\\\DecisionTable\\2021-05-11-15-41-31\\contraceptive",
+  "crossVal": "-X 1"
+}

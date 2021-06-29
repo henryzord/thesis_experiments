@@ -1,0 +1,6 @@
+{
+  "numIterations": "-I 255",
+  "classifier": "-W weka.classifiers.rules.DecisionTable",
+  "dataset_name": "twonorm",
+  "dataset_experiment_path": "./DecisionTable/2021-06-17-04-15-15/twonorm"
+}

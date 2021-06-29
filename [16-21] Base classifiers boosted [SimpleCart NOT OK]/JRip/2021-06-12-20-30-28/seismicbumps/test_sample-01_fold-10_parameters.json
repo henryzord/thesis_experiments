@@ -1,0 +1,6 @@
+{
+  "numIterations": "-I 91",
+  "classifier": "-W weka.classifiers.rules.JRip",
+  "dataset_name": "seismicbumps",
+  "dataset_experiment_path": "./JRip/2021-06-12-20-30-28/seismicbumps"
+}

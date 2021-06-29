@@ -1,0 +1,6 @@
+{
+  "numIterations": "-I 91",
+  "classifier": "-W weka.classifiers.trees.J48",
+  "dataset_name": "titanic",
+  "dataset_experiment_path": "./J48/2021-06-09-03-12-43/titanic"
+}

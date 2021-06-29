@@ -1,0 +1,6 @@
+{
+  "numIterations": "-I 50",
+  "classifier": "-W weka.classifiers.rules.JRip",
+  "dataset_name": "twonorm",
+  "dataset_experiment_path": "./JRip/2021-06-13-08-30-16/twonorm"
+}

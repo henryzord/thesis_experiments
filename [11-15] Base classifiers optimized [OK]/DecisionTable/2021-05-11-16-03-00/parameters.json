@@ -1,0 +1,8 @@
+{
+  "n_internal_folds": "5",
+  "classifier": "DecisionTable",
+  "dataset_name": "waveform",
+  "datasets_names": "waveform",
+  "datasets_path": "C:\\\\Users\\\\henry\\\\Projects\\\\ednel\\\\keel_datasets_10fcv",
+  "metadata_path": ".\\\\DecisionTable"
+}

@@ -1,0 +1,11 @@
+{
+  "pruning": "-R",
+  "seed": "-Q 1",
+  "numFolds": "-N 3",
+  "useMDLcorrection": "",
+  "binarySplits": "",
+  "minNumObj": "-M 8",
+  "dataset_name": "waveform",
+  "doNotMakeSplitPointActualValue": "",
+  "dataset_experiment_path": ".\\\\PART\\2021-05-11-15-39-30\\waveform"
+}

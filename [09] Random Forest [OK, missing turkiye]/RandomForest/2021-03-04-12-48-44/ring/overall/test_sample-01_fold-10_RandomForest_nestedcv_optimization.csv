@@ -1,0 +1,2 @@
+dataset_name,n_sample,n_fold,unweighted_area_under_roc,classifier size,elapsed time (seconds),characteristics,options
+ring,1,10,0.993728,1000,21,"bagSizePercent=90, breakTiesRandomly=false, maxDepth=0, numFeatures=-K {Math.sqrt(p)/2}, numIterations=1000","-P 90  -depth 0 -K {Math.sqrt(p)/2} -I 1000"

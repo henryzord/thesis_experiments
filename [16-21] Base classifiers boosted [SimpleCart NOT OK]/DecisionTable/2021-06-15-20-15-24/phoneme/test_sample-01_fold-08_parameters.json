@@ -1,0 +1,6 @@
+{
+  "numIterations": "-I 91",
+  "classifier": "-W weka.classifiers.rules.DecisionTable",
+  "dataset_name": "phoneme",
+  "dataset_experiment_path": "./DecisionTable/2021-06-15-20-15-24/phoneme"
+}

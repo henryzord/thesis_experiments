@@ -1,0 +1,9 @@
+{
+  "pruning": "-U",
+  "useMDLcorrection": "",
+  "binarySplits": "",
+  "minNumObj": "-M 2",
+  "dataset_name": "steelfaults",
+  "doNotMakeSplitPointActualValue": "",
+  "dataset_experiment_path": ".\\\\PART\\2021-05-11-15-36-37\\steelfaults"
+}

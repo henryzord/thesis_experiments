@@ -1,0 +1,9 @@
+{
+  "pruning": "-C 0.25",
+  "useMDLcorrection": "",
+  "binarySplits": "",
+  "minNumObj": "-M 6",
+  "dataset_name": "ring",
+  "doNotMakeSplitPointActualValue": "",
+  "dataset_experiment_path": ".\\\\PART\\2021-05-11-15-35-05\\ring"
+}

@@ -1,0 +1,8 @@
+{
+  "useIBk": "-I",
+  "search": "-S weka.attributeSelection.BestFirst -D 1 -N 5",
+  "evaluationMeasure": "-E acc",
+  "dataset_name": "phoneme",
+  "dataset_experiment_path": ".\\\\DecisionTable\\2021-05-11-15-47-22\\phoneme",
+  "crossVal": "-X 1"
+}

@@ -1,0 +1,6 @@
+{
+  "numIterations": "-I 50",
+  "classifier": "-W weka.classifiers.trees.DecisionStump",
+  "dataset_name": "thyroid",
+  "dataset_experiment_path": "./DecisionStump/2021-06-08-17-16-53/thyroid"
+}

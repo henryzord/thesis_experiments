@@ -1,0 +1,6 @@
+{
+  "numIterations": "-I 132",
+  "classifier": "-W weka.classifiers.rules.PART",
+  "dataset_name": "page-blocks",
+  "dataset_experiment_path": "./PART/2021-06-13-14-20-25/page-blocks"
+}
