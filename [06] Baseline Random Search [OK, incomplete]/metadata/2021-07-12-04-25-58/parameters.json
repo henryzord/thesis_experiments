@@ -1,0 +1,7 @@
+{
+  "n_individuals": "5000",
+  "dataset_name": "thyroid",
+  "datasets_names": "thyroid",
+  "datasets_path": "/home/henry/Projects/ednel/keel_datasets_10fcv",
+  "metadata_path": "./metadata"
+}
