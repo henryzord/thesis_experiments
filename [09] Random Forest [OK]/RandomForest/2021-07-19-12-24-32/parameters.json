@@ -1,0 +1,9 @@
+{
+  "n_internal_folds": "5",
+  "n_jobs": "3",
+  "classifier": "RandomForest",
+  "dataset_name": "turkiye",
+  "datasets_names": "turkiye",
+  "datasets_path": "C:\\\\Users\\\\henry\\\\Projects\\\\ednel\\\\keel_datasets_10fcv",
+  "metadata_path": "C:\\\\Users\\\\henry\\\\Projects\\\\trash\\\\ednel\\\\nestedcv"
+}
