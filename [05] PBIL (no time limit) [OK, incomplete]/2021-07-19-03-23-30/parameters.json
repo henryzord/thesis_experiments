@@ -1,0 +1,8 @@
+{
+  "heap_size": "4g",
+  "metadata_path": "/A/henry/pbil/metadata/nestedcv_pbil_no_limit",
+  "datasets_path": "/home/henry/Projects/ednel/keel_datasets_10fcv",
+  "dataset_name": "turkiye",
+  "n_internal_folds": 5,
+  "n_jobs": 10
+}

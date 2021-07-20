@@ -1,9 +1,9 @@
 {
-  "maxDepth": "-depth 0",
+  "maxDepth": "0",
   "breakTiesRandomly": "",
-  "numFeatures": "-K {Math.sqrt(p)*2}",
-  "numIterations": "-I 1000",
+  "numFeatures": "{Math.sqrt(p)*2}",
+  "numIterations": "1000",
   "dataset_name": "turkiye",
-  "bagSizePercent": "-P 90",
+  "bagSizePercent": "90",
   "dataset_experiment_path": "C:\\\\Users\\\\henry\\\\Projects\\\\trash\\\\ednel\\\\nestedcv\\2021-07-19-12-24-32\\turkiye"
 }
