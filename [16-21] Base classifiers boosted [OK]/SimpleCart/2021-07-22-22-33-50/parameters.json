@@ -1,0 +1,9 @@
+{
+  "n_internal_folds": "5",
+  "n_jobs": "3",
+  "classifier": "SimpleCart",
+  "dataset_name": "penbased",
+  "datasets_names": "penbased",
+  "datasets_path": "/home/henry/Projects/ednel/keel_datasets_10fcv",
+  "metadata_path": "./SimpleCart"
+}

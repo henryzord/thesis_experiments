@@ -1,0 +1,6 @@
+{
+  "numIterations": "-I 50",
+  "classifier": "-W ednel.classifiers.trees.SimpleCart",
+  "dataset_name": "ring",
+  "dataset_experiment_path": "./SimpleCart/2021-07-22-10-23-06/ring"
+}

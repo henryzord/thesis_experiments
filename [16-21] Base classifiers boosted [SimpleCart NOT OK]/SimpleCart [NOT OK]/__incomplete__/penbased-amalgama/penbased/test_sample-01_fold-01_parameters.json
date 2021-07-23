@@ -1,6 +1,0 @@
-{
-  "numIterations": "-I 50",
-  "classifier": "-W ednel.classifiers.trees.SimpleCart",
-  "dataset_name": "penbased",
-  "dataset_experiment_path": "./SimpleCart/2021-06-22-09-49-29/penbased"
-}

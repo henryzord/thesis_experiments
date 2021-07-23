@@ -1,6 +1,0 @@
-{
-  "numIterations": "-I 50",
-  "classifier": "-W ednel.classifiers.trees.SimpleCart",
-  "dataset_name": "texture",
-  "dataset_experiment_path": "./SimpleCart/2021-06-11-02-23-44/texture"
-}

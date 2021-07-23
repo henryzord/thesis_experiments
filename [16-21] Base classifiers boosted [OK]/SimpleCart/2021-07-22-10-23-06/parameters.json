@@ -1,0 +1,9 @@
+{
+  "n_internal_folds": "5",
+  "n_jobs": "3",
+  "classifier": "SimpleCart",
+  "dataset_name": "ring",
+  "datasets_names": "ring",
+  "datasets_path": "/home/henry/Projects/ednel/keel_datasets_10fcv",
+  "metadata_path": "./SimpleCart"
+}
