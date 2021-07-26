@@ -1,0 +1,7 @@
+{
+  "n_individuals": "5000",
+  "dataset_name": "turkiye",
+  "datasets_names": "turkiye",
+  "datasets_path": "/home/henry/Projects/ednel/keel_datasets_10fcv",
+  "metadata_path": "./metadata"
+}
