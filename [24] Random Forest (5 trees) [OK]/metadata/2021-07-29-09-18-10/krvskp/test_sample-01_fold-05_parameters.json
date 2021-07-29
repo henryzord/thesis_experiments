@@ -1,0 +1,9 @@
+{
+  "maxDepth": "-depth 0",
+  "breakTiesRandomly": "",
+  "numFeatures": "-K {Math.sqrt(p)*2}",
+  "numIterations": "-I 5",
+  "dataset_name": "krvskp",
+  "bagSizePercent": "-P 90",
+  "dataset_experiment_path": "/A/henry/ednel/metadata/random_forest/metadata/2021-07-29-09-18-10/krvskp"
+}

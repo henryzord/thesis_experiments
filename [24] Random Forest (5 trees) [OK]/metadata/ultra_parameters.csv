@@ -1,0 +1,21 @@
+,bagSizePercent_-P 100,bagSizePercent_-P 90,numFeatures_-K {(Math.log(p)/Math.log(2))*2},numFeatures_-K {Math.sqrt(p)*2},numFeatures_-K {Math.sqrt(p)/2},numFeatures_-K {Math.sqrt(p)},numFeatures_-K {Math.log(p)/Math.log(2)}
+banana,2,8,0,0,8.0,2.0,
+banknotes,5,5,0,0,3.0,7.0,
+car,5,5,2,6,,2.0,
+contraceptive,5,5,6,4,,,
+diabetic,5,5,0,3,3.0,4.0,
+flare,7,3,0,0,7.0,2.0,1.0
+krvskp,5,5,1,9,,,
+page-blocks,4,6,0,6,,4.0,
+penbased,7,3,0,6,1.0,3.0,
+phoneme,7,3,0,2,,4.0,4.0
+ring,7,3,0,0,6.0,1.0,3.0
+seismicbumps,4,6,3,1,,6.0,
+splice,7,3,0,10,,,
+steelfaults,5,5,4,6,,,
+texture,5,5,5,3,,2.0,
+thyroid,5,5,0,6,,3.0,1.0
+titanic,5,5,0,3,6.0,1.0,
+twonorm,5,5,0,2,1.0,3.0,4.0
+waveform,8,2,4,6,,,
+turkiye,6,4,3,7,,,

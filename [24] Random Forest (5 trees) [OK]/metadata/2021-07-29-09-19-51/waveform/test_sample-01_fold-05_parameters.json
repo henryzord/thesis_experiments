@@ -1,0 +1,9 @@
+{
+  "maxDepth": "-depth 0",
+  "breakTiesRandomly": "",
+  "numFeatures": "-K {Math.sqrt(p)*2}",
+  "numIterations": "-I 5",
+  "dataset_name": "waveform",
+  "bagSizePercent": "-P 100",
+  "dataset_experiment_path": "/A/henry/ednel/metadata/random_forest/metadata/2021-07-29-09-19-51/waveform"
+}
