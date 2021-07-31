@@ -1,0 +1,17 @@
+{
+  "thinning_factor": "0",
+  "max_parents": "1",
+  "delay_structure_learning": "5",
+  "individual": "overall",
+  "selection_share": "0.5",
+  "n_individuals": "50",
+  "no_cycles": "false",
+  "dataset_name": "contraceptive",
+  "timeout_individual": "0",
+  "timeout": "0",
+  "dataset_experiment_path": "/A/henry/ednel/metadata/timeless_ednel/2021-07-05-18-18-53/contraceptive",
+  "burn_in": "100",
+  "early_stop_generations": "10",
+  "learning_rate": "0.13",
+  "n_generations": "100"
+}

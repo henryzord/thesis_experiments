@@ -1,0 +1,8 @@
+{
+  "n_internal_folds": "5",
+  "classifier": "EDNEL",
+  "dataset_name": "page-blocks",
+  "datasets_names": "page-blocks",
+  "datasets_path": "keel_datasets_10fcv",
+  "metadata_path": "/A/henry/ednel/metadata/timeless_ednel"
+}
