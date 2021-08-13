@@ -1,0 +1,11 @@
+{
+  "learning_rate": "0.13",
+  "selection_share": "0.3",
+  "n_individuals": "50",
+  "n_generations": "100",
+  "timeout": "5400",
+  "timeout_individual": "60",
+  "n_folds": "5",
+  "fitness_metric": "balanced_accuracy",
+  "individual": "last"
+}

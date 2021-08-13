@@ -1,0 +1,8 @@
+{
+  "n_jobs": "10",
+  "classifier": "EDNEL",
+  "dataset_name": "307",
+  "datasets_names": "307",
+  "datasets_path": "/A/henry/ednel/metadata/ednel_holdout/datasets",
+  "metadata_path": "/A/henry/ednel/metadata/ednel_holdout/metadata"
+}
