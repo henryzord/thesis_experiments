@@ -1,0 +1,7 @@
+{
+  "heap_size": "2G",
+  "metadata_path": "/A/henry/pbil/metadata/pbil_holdout/metadata",
+  "datasets_path": "/A/henry/pbil/metadata/pbil_holdout/datasets",
+  "dataset_name": "40994",
+  "n_jobs": 1
+}
