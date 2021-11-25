@@ -1,0 +1,6 @@
+{
+  "numIterations": "-I 5",
+  "classifier": "-W weka.classifiers.rules.PART",
+  "dataset_name": "phoneme",
+  "dataset_experiment_path": "PART\\2021-11-24-12-01-19\\phoneme"
+}

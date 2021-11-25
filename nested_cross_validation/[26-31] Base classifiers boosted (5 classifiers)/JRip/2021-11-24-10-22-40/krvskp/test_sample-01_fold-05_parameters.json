@@ -1,0 +1,6 @@
+{
+  "numIterations": "-I 5",
+  "classifier": "-W weka.classifiers.rules.JRip",
+  "dataset_name": "krvskp",
+  "dataset_experiment_path": "JRip\\2021-11-24-10-22-40\\krvskp"
+}

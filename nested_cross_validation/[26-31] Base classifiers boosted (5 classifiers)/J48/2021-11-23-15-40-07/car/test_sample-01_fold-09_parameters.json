@@ -1,0 +1,6 @@
+{
+  "numIterations": "-I 5",
+  "classifier": "-W weka.classifiers.trees.J48",
+  "dataset_name": "car",
+  "dataset_experiment_path": "J48\\2021-11-23-15-40-07\\car"
+}

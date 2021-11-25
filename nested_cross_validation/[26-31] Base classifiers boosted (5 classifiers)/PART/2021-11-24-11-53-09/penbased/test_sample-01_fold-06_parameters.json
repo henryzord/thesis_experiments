@@ -1,0 +1,6 @@
+{
+  "numIterations": "-I 5",
+  "classifier": "-W weka.classifiers.rules.PART",
+  "dataset_name": "penbased",
+  "dataset_experiment_path": "PART\\2021-11-24-11-53-09\\penbased"
+}

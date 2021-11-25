@@ -1,0 +1,9 @@
+{
+  "n_internal_folds": "5",
+  "classifier": "SimpleCart",
+  "dataset_name": "diabetic",
+  "optimize_ensemble_size": "false",
+  "datasets_names": "diabetic",
+  "datasets_path": "c:\\\\users\\\\hEnry\\\\projects\\\\ednel\\\\keel_datasets_10fcv",
+  "metadata_path": "SimpleCart"
+}

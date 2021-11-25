@@ -1,0 +1,6 @@
+{
+  "numIterations": "-I 5",
+  "classifier": "-W weka.classifiers.trees.DecisionStump",
+  "dataset_name": "banana",
+  "dataset_experiment_path": "DecisionStump\\2021-11-23-15-37-10\\banana"
+}

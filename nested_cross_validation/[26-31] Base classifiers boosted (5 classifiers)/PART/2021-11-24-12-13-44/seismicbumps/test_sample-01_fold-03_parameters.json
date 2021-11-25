@@ -1,0 +1,6 @@
+{
+  "numIterations": "-I 5",
+  "classifier": "-W weka.classifiers.rules.PART",
+  "dataset_name": "seismicbumps",
+  "dataset_experiment_path": "PART\\2021-11-24-12-13-44\\seismicbumps"
+}

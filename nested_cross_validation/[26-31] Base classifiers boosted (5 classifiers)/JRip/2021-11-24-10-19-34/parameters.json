@@ -1,0 +1,9 @@
+{
+  "n_internal_folds": "5",
+  "classifier": "JRip",
+  "dataset_name": "banana",
+  "optimize_ensemble_size": "false",
+  "datasets_names": "banana",
+  "datasets_path": "c:\\\\users\\\\hEnry\\\\projects\\\\ednel\\\\keel_datasets_10fcv",
+  "metadata_path": "JRip"
+}

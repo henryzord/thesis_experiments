@@ -1,0 +1,6 @@
+{
+  "numIterations": "-I 5",
+  "classifier": "-W ednel.classifiers.trees.SimpleCart",
+  "dataset_name": "banknotes",
+  "dataset_experiment_path": "SimpleCart\\2021-11-23-16-04-44\\banknotes"
+}

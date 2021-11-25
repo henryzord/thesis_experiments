@@ -1,0 +1,6 @@
+{
+  "numIterations": "-I 5",
+  "classifier": "-W ednel.classifiers.trees.SimpleCart",
+  "dataset_name": "turkiye",
+  "dataset_experiment_path": "SimpleCart\\2021-11-24-08-41-17\\turkiye"
+}

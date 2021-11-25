@@ -1,0 +1,6 @@
+{
+  "numIterations": "-I 5",
+  "classifier": "-W ednel.classifiers.trees.SimpleCart",
+  "dataset_name": "phoneme",
+  "dataset_experiment_path": "SimpleCart\\2021-11-23-16-27-15\\phoneme"
+}

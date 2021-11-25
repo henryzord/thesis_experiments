@@ -1,0 +1,6 @@
+{
+  "numIterations": "-I 5",
+  "classifier": "-W weka.classifiers.rules.DecisionTable",
+  "dataset_name": "waveform",
+  "dataset_experiment_path": "DecisionTable\\2021-11-24-21-23-20\\waveform"
+}

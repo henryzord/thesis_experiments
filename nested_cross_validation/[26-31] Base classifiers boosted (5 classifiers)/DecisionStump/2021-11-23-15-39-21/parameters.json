@@ -1,0 +1,9 @@
+{
+  "n_internal_folds": "5",
+  "classifier": "DecisionStump",
+  "dataset_name": "waveform",
+  "optimize_ensemble_size": "false",
+  "datasets_names": "waveform",
+  "datasets_path": "c:\\\\users\\\\hEnry\\\\projects\\\\ednel\\\\keel_datasets_10fcv",
+  "metadata_path": "DecisionStump"
+}
